@@ -1,8 +1,8 @@
-package com.nandaadisaputra.wisatasemarang.ui
+package com.natanaelanantasatrio.wisatasemarang.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.nandaadisaputra.wisatasemarang.databinding.ActivityDetailBinding
+import com.natanaelanantasatrio.wisatasemarang.databinding.ActivityDetailBinding
 
 
 // Aktivitas DetailActivity menampilkan detail dari objek pariwisata yang dipilih.

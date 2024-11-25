@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.nandaadisaputra.wisatasemarang"
+    namespace = "com.natanaelanantasatrio.wisatasemarang"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.nandaadisaputra.wisatasemarang"
+        applicationId = "com.natanaelanantasatrio.wisatasemarang"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

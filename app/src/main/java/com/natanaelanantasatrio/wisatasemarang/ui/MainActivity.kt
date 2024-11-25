@@ -1,13 +1,13 @@
-package com.nandaadisaputra.wisatasemarang.ui
+package com.natanaelanantasatrio.wisatasemarang.ui
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.nandaadisaputra.wisatasemarang.R
-import com.nandaadisaputra.wisatasemarang.adapter.TouristAttractionAdapter
-import com.nandaadisaputra.wisatasemarang.databinding.ActivityMainBinding
-import com.nandaadisaputra.wisatasemarang.model.TouristAttractionModel
+import com.natanaelanantasatrio.wisatasemarang.R
+import com.natanaelanantasatrio.wisatasemarang.adapter.TouristAttractionAdapter
+import com.natanaelanantasatrio.wisatasemarang.databinding.ActivityMainBinding
+import com.natanaelanantasatrio.wisatasemarang.model.TouristAttractionModel
 
 // Kelas MainActivity merupakan kelas utama yang mengatur tampilan halaman utama aplikasi.
 class MainActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.nandaadisaputra.wisatasemarang.model
+package com.natanaelanantasatrio.wisatasemarang.model
 
 // Data class TouristAttraction merepresentasikan objek pariwisata yang akan ditampilkan dalam aplikasi.
 data class TouristAttractionModel(

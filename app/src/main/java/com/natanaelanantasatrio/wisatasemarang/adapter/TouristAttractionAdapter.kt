@@ -1,10 +1,10 @@
-package com.nandaadisaputra.wisatasemarang.adapter
+package com.natanaelanantasatrio.wisatasemarang.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.nandaadisaputra.wisatasemarang.databinding.ItemTouristAttractionsBinding
-import com.nandaadisaputra.wisatasemarang.model.TouristAttractionModel
+import com.natanaelanantasatrio.wisatasemarang.databinding.ItemTouristAttractionsBinding
+import com.natanaelanantasatrio.wisatasemarang.model.TouristAttractionModel
 
 
 // Kelas TouristAttractionAdapter adalah adapter yang digunakan untuk menghubungkan data objek pariwisata ke dalam RecyclerView.

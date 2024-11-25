@@ -1,4 +1,4 @@
-package com.nandaadisaputra.wisatasemarang
+package com.natanaelanantasatrio.wisatasemarang
 
 import org.junit.Test
 
